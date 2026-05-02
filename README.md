@@ -1,4 +1,4 @@
-# 👋 Hola, soy César Rábago
+# César Rábago
 
 **Business Intelligence Analyst · Data Analyst** · Monterrey, N.L. 🇲🇽
 Ingeniero en Mecatrónica (UANL) · Inglés C1 · Alemán B1
