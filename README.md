@@ -5,7 +5,7 @@ Ingeniero en Mecatrónica (UANL) · Inglés C1 · Alemán B1
 ---
 
 ###  Lo que hago
-Construyo dashboards, automatizo reportes y exploro datos para detectar **patrones, tendencias y desviaciones** que aceleran decisiones de negocio.
+Construyo sistemas analíticos de extremo a extremo — desde la ingesta y transformación de datos hasta el dashboard ejecutivo. Me especializo en eliminar procesos manuales y convertir datos dispersos en decisiones de negocio confiables y reproducibles.
 
 ###  Stack
 | Categoría | Herramientas |
