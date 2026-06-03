@@ -10,10 +10,11 @@ Construyo sistemas analíticos de extremo a extremo — desde la ingesta y trans
 ###  Stack
 | Categoría | Herramientas |
 |---|---|
-| **Lenguajes** | SQL · Python (pandas, matplotlib, seaborn) |
+| **Lenguajes** | SQL · Python (pandas, matplotlib, seaborn) · JavaScript |
 | **BI & Viz** | Power BI (DAX, Data Modeling) · Tableau · Excel Avanzado |
-| **ETL & Automatización** | Power Query · Power Pivot · Power Automate · Apache Airflow |
-| **Cloud & BD** | BigQuery |
+| **ETL & Automatización** | n8n · Power Query · Power Pivot · Power Automate · Apache Airflow |
+| **Bases de Datos** | PostgreSQL · BigQuery |
+| **Infraestructura** | Docker · Docker Compose |
 | **IA aplicada** | Claude AI (exploración de datos, generación/depuración de SQL & Python) |
 
 ###  Proyectos destacados
