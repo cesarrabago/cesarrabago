@@ -1,13 +1,11 @@
 # César Rábago
 **ANALISTA FUNCIONAL · ASEGURAMIENTO DE CALIDAD · GESTIÓN DE PROYECTOS**
-
 Ingeniero en Mecatrónica (UANL) · Inglés C1 · Alemán B1
 
 ---
 
 ### Lo que hago
-
-Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos y sistemas de gestión de calidad. Convierto necesidades de negocio en proyectos definidos: acuerdo el alcance con el usuario, diseño la arquitectura de la solución, la documento y valido los entregables con pruebas antes de liberarlos. 
+Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos y sistemas de gestión de calidad. Convierto necesidades de negocio en proyectos definidos: acuerdo el alcance con el usuario, diseño la arquitectura de la solución, la documento y valido los entregables con pruebas antes de liberarlos.
 
 ### Stack
 | Categoría | Herramientas |
@@ -22,7 +20,6 @@ Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos 
 | **Infraestructura** | Docker · Docker Compose · GitHub Actions (CI/CD) |
 
 ### Proyectos destacados
-
 | Proyecto | Stack | Qué resuelve |
 |---|---|---|
 | [Argus — Agente Autónomo de Confiabilidad de Datos](https://github.com/cesarrabago/Argus-Agente-Autonomo-de-Confiabilidad-de-Datos-y-Analitica) | dbt · BigQuery · Claude AI · OpenClaw · Slack · Jira | Agente que monitorea pipelines, diagnostica incidentes con investigación multi-paso, pronostica riesgos y responde preguntas de negocio en lenguaje natural. 227 tests, 100% de precisión en el harness de evaluación |
@@ -33,11 +30,17 @@ Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos 
 | [Tableau Portfolio](https://public.tableau.com/app/profile/cesarrabago/vizzes) | Tableau Public | Dashboards interactivos publicados |
 
 ### Certificaciones
-
-Google Project Manager · Google Advanced Data Analytics · Google Business Intelligence · IBM ETL & Data Pipelines · Microsoft PL-300 · Duke University Tableau · SAP S/4HANA · UPenn AI Essentials · Macquarie Excel for Business
+| Institución | Certificaciones |
+|---|---|
+| **Google** | Project Manager · Advanced Data Analytics · Business Intelligence |
+| **Microsoft** | PL-300 Power BI Data Analyst |
+| **IBM** | ETL & Data Pipelines |
+| **Duke University** | Tableau |
+| **SAP** | S/4HANA Business |
+| **UPenn** | AI Essentials |
+| **Macquarie University** | Excel for Business |
 
 ### Contacto
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-rabago-perez)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/cesarrabago/vizzes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cesarrabago123@gmail.com)
