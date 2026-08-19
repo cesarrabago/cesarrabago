@@ -1,12 +1,12 @@
 # César Rábago
-**Business Intelligence Analyst · Data Analyst · Analytics Engineer** · Monterrey, N.L. 🇲🇽
+**ANALISTA FUNCIONAL · ASEGURAMIENTO DE CALIDAD · GESTIÓN DE PROYECTOS** · Monterrey, N.L. 🇲🇽
 Ingeniero en Mecatrónica (UANL) · Inglés C1 · Alemán B1
 
 ---
 
 ### Lo que hago
 
-Construyo sistemas analíticos de extremo a extremo — desde la ingesta y transformación de datos hasta agentes autónomos que monitorean, diagnostican y responden preguntas de negocio en lenguaje natural. Me especializo en eliminar procesos manuales y convertir datos dispersos en decisiones de negocio confiables, medibles y reproducibles.
+Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos y sistemas de gestión de calidad. Convierto necesidades de negocio en proyectos definidos: acuerdo el alcance con el usuario, diseño la arquitectura de la solución, la documento y valido los entregables con pruebas antes de liberarlos. 
 
 ### Stack
 
