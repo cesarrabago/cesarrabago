@@ -34,7 +34,7 @@ Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos 
 
 ### Certificaciones
 
-Google Advanced Data Analytics · Google Business Intelligence · IBM ETL & Data Pipelines · Duke University Tableau · SAP S/4HANA · UPenn AI Essentials · Macquarie Excel for Business
+Google Project Manager · Google Advanced Data Analytics · Google Business Intelligence · IBM ETL & Data Pipelines · Duke University Tableau · SAP S/4HANA · UPenn AI Essentials · Macquarie Excel for Business
 
 ### Contacto
 
