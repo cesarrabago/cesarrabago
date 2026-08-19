@@ -10,13 +10,14 @@ Ingeniero en Mecatrónica (UANL) · Inglés C1 · Alemán B1
 Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos y sistemas de gestión de calidad. Convierto necesidades de negocio en proyectos definidos: acuerdo el alcance con el usuario, diseño la arquitectura de la solución, la documento y valido los entregables con pruebas antes de liberarlos. 
 
 ### Stack
-
 | Categoría | Herramientas |
 |---|---|
+| **Análisis Funcional & Calidad** | Documentación técnica · Diagramas de proceso (draw.io) · Casos de prueba y validación de entregables · Asana |
 | **Lenguajes** | SQL · Python (pandas, matplotlib, seaborn, numpy) · JavaScript |
-| **Datos & Transformación** | dbt · BigQuery · PostgreSQL |
+| **Datos & Transformación** | dbt · BigQuery · PostgreSQL · MySQL |
 | **BI & Viz** | Power BI (DAX, Data Modeling) · Tableau · Excel Avanzado |
 | **ETL & Automatización** | n8n · Power Query · Power Pivot · Power Automate · Apache Airflow |
+| **Integraciones** | API REST (Postman) · Webhooks |
 | **IA aplicada** | Claude AI (agentes autónomos, text-to-SQL anclado a capa semántica, diagnóstico de incidentes) · OpenClaw (orquestación) · XGBoost |
 | **Infraestructura** | Docker · Docker Compose · GitHub Actions (CI/CD) |
 
