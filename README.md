@@ -1,38 +1,43 @@
 # César Rábago
-**ANALISTA FUNCIONAL · ASEGURAMIENTO DE CALIDAD · GESTIÓN DE PROYECTOS**
-Ingeniero en Mecatrónica (UANL) · Inglés C1 · Alemán B1
+**BUSINESS INTELLIGENCE ANALYST · DATA ANALYST · ANALYTICS ENGINEER**
+Mechatronics Engineer (UANL) · English C1 · German B1
 
 ---
 
-### Lo que hago
-Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos y sistemas de gestión de calidad. Convierto necesidades de negocio en proyectos definidos: acuerdo el alcance con el usuario, diseño la arquitectura de la solución, la documento y valido los entregables con pruebas antes de liberarlos.
+### What I do
+Data/BI Analyst with a Mechatronics Engineering background and hands-on experience
+in industrial processes and quality management systems. I turn business needs into
+defined projects: agree the scope with the user, design the solution architecture,
+document it, and validate the deliverables with tests before release. I build data
+pipelines with Python, SQL and n8n, integrate them with AI models, and feed
+executive dashboards in Power BI.
 
 ### Stack
-| Categoría | Herramientas |
+| Category | Tools |
 |---|---|
-| **Análisis Funcional & Calidad** | Documentación técnica · Diagramas de proceso (draw.io) · Casos de prueba y validación de entregables · Asana |
-| **Lenguajes** | SQL · Python (pandas, matplotlib, seaborn, numpy) · JavaScript |
-| **Datos & Transformación** | dbt · BigQuery · PostgreSQL · MySQL |
-| **BI & Viz** | Power BI (DAX, Data Modeling) · Tableau · Excel Avanzado |
-| **ETL & Automatización** | n8n · Power Query · Power Pivot · Power Automate · Apache Airflow |
-| **Integraciones** | API REST (Postman) · Webhooks |
-| **IA aplicada** | Claude AI (agentes autónomos, text-to-SQL anclado a capa semántica, diagnóstico de incidentes) · OpenClaw (orquestación) · XGBoost |
-| **Infraestructura** | Docker · Docker Compose · GitHub Actions (CI/CD) |
+| **Functional Analysis & Quality** | Technical documentation · Process diagrams (draw.io) · Test cases and deliverable validation · Asana |
+| **Languages** | SQL · Python (pandas, matplotlib, seaborn, numpy) · JavaScript |
+| **Data & Transformation** | dbt · BigQuery · PostgreSQL · MySQL |
+| **BI & Viz** | Power BI (DAX, Data Modeling) · Tableau · Advanced Excel |
+| **ETL & Automation** | n8n · Power Query · Power Automate · Apache Airflow |
+| **Integrations** | REST APIs (Postman) · Webhooks |
+| **Applied AI** | Claude (autonomous agents, text-to-SQL anchored to a semantic layer, incident diagnosis) · OpenClaw (orchestration) · XGBoost |
+| **Infrastructure** | Docker · Docker Compose · GitHub Actions (CI/CD) |
 
-### Proyectos destacados
-| Proyecto | Stack | Qué resuelve |
+### Featured projects
+| Project | Stack | What it solves |
 |---|---|---|
-| [Argus — Agente Autónomo de Confiabilidad de Datos](https://github.com/cesarrabago/Argus-Agente-Autonomo-de-Confiabilidad-de-Datos-y-Analitica) | dbt · BigQuery · Claude AI · OpenClaw · Slack · Jira | Agente que monitorea pipelines, diagnostica incidentes con investigación multi-paso, pronostica riesgos y responde preguntas de negocio en lenguaje natural. 227 tests, 100% de precisión en el harness de evaluación |
-| [CX & Employee Intelligence Platform](https://github.com/cesarrabago/CX-Employee-Intelligence-Platform) | Python · PostgreSQL · Power BI · Airflow · XGBoost · Claude AI | Clasificación automática, análisis de sentimiento y predicción de incumplimiento de SLA sobre datos de 6 canales, en dashboards ejecutivos en tiempo real |
-| [Automated BI & ETL Platform](https://github.com/cesarrabago/Automated-Business-Intelligence-ETL-Platform) | n8n · PostgreSQL · Power BI · Docker | Pipeline end-to-end: ingesta de CSV desde Gmail → transformación en JS → dashboard ejecutivo. Elimina ~40h/mes de trabajo manual |
-| [Análisis de Ventas eCommerce](https://github.com/cesarrabago/ecommerce-sales-analysis) | Python · PPT | EDA sobre 621 órdenes en 2 mercados con entregable ejecutivo |
-| [TikTok Claims EDA](https://github.com/cesarrabago/tiktok-claims-eda) | Python · pandas | Análisis exploratorio para clasificación claim vs opinion |
-| [Tableau Portfolio](https://public.tableau.com/app/profile/cesarrabago/vizzes) | Tableau Public | Dashboards interactivos publicados |
+| [Argus — Autonomous Data Reliability & Analytics Agent](https://github.com/cesarrabago/Argus---Autonomous-Data-Reliability-Analytics-Agent) | dbt · BigQuery · Claude · OpenClaw · Slack · Jira | An agent that monitors pipelines, diagnoses incidents through multi-step investigation, forecasts risks and answers business questions in natural language. 227 automated tests, 6/6 on the seed eval suite |
+| [CX & Employee Intelligence Platform](https://github.com/cesarrabago/CX-Employee-Intelligence-Platform_) | Python · PostgreSQL · Power BI · Airflow · XGBoost | Automatic ticket classification, sentiment analysis and SLA-breach prediction over data from 6 channels, surfaced in real-time executive dashboards |
+| [Automated ETL & BI Data Platform](https://github.com/cesarrabago/Automated-ETL-BI-Data-Platform) | n8n · PostgreSQL · Power BI · Docker | End-to-end pipeline: CSV ingestion from Gmail → transformation in JavaScript → executive dashboard. Removes ~40h/month of manual work |
+| [E-commerce Sales Analysis](https://github.com/cesarrabago/E-commerce-Sales-Analysis) | Python · PowerPoint | EDA on 621 orders across 2 markets, delivered as an executive presentation |
+| [TikTok Claims EDA](https://github.com/cesarrabago/TikTok-Claims-EDA-Exploratory-Analysis-for-Content-Classification) | Python · pandas | Exploratory analysis as the groundwork for a claim vs. opinion classification model |
+| [Tableau Portfolio](https://public.tableau.com/app/profile/cesarrabago/vizzes) | Tableau Public | Published interactive dashboards |
 
-### Certificaciones
-| Institución | Certificaciones |
+### Certifications
+| Institution | Certifications |
 |---|---|
-| **Google** | Project Manager · Advanced Data Analytics · Business Intelligence |
+| **Google** | Project Management · Advanced Data Analytics · Business Intelligence |
 | **Microsoft** | PL-300 Power BI Data Analyst |
 | **IBM** | ETL & Data Pipelines |
 | **Duke University** | Tableau |
@@ -40,7 +45,7 @@ Ingeniero en Mecatrónica con base en procesos industriales, análisis de datos 
 | **UPenn** | AI Essentials |
 | **Macquarie University** | Excel for Business |
 
-### Contacto
+### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-rabago-perez)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/cesarrabago/vizzes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cesarrabago123@gmail.com)
